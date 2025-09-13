@@ -71,6 +71,30 @@ Question 29.
 Shapes 
 
 Question 30. 
+roof.changeSize(60, 180);
+            roof.moveHorizontal(20);
+            roof.moveVertical(-60);
+            roof.makeVisible();
+            
+            
+Question 31.
+No
+
+Question 32.
+8%3 = 2
+If both numbers are negative, the remainder (answer) will also be negative.
+
+Question 34.
+-4,-3-2-1,0,1,2,3,4
+
+Question 35.
+[-(m-1), (m-1)] m is an integer number
+
+Question 37. 
+(didn't implement)
+I feel like the first option would be easier, because you wouldn't need to 
+worry about converting the time. Ex 18:47 to 6:47 PM
+
 
 
  
